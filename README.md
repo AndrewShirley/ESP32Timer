@@ -1,11 +1,11 @@
 # ESP32Timer
-A software implementation for unlimited timers with event handlers
+## A software implementation for unlimited timers with event handlers
 
 
 
 
 
-
+```
 
 #include <Arduino.h>
 #include "Timer.h"
@@ -32,3 +32,4 @@ void loop()
   T.loop();    
 }
 
+```
